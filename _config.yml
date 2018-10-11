@@ -1,0 +1,24 @@
+# Base configs
+baseurl:
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-46465113-2"
+
+# UI configs
+title: "Photography by Sam Allen"
+subtitle: "See the world through my eyes!"
+author: "Sam Allen"
+header:
+ title: "Photography"
+ subtitle: "by Sam Allen"
+footer:
+ name: "Hey! I'm Sam."
+ bio: "I'm a photographer and writer living in Austin, TX. When I'm not behind the lens or tapping away, you can find me on my bicycle. Allez les bleus!"
+#web_design:
+#social_urls:
+#facebook: 
+#twitter:
+#instagram:
+#dribbble:
+#linkedin:
+#github:
